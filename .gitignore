@@ -22,3 +22,4 @@ TestApp/theme-cache/web/theme.compiled.css
 TestApp/theme-cache/web/theme.compiled.css.map
 TestApp/modules/javasource/*/proxies/*
 TestApp/modules/javasource/system/*
+TestApp/.mxcli/
